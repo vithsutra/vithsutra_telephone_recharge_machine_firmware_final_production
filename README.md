@@ -41,7 +41,8 @@
 | GND         | GND |
 
 
-
+> While uploading code to esp32 via arduino IDE replace machine ID #define MACHINE_ID "TELE0017"
+to required new ID of the machine and upload
 
 
 
