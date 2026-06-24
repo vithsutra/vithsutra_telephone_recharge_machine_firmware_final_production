@@ -11,6 +11,7 @@
 
 
 | RFID |ESP32   |
+| ---- | ------ |
 | SDA  | GPIO 5 |
 | SCK  | GPIO 18|
 | MOSI | GPIO 23|
@@ -23,11 +24,13 @@
 
 
 | LED (GREEN) | PIN |
+| ----------- | --- |
 | 3.3 v       | 2   |
 | GND         | GND |
 
 
 | LED (RED)   | PIN |
+| ----------- | --- |
 | 3.3 v       | 3.3v|
 | GND         | GND |
 
@@ -38,11 +41,7 @@
 | GND         | GND |
 
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+
 
 
 
