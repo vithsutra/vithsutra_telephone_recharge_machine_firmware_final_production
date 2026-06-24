@@ -10,46 +10,33 @@
 
 
 
-RFID Reader
-ESP32
-SDA
-GPIO 5
-SCK
-GPIO 18
-MOSI
-23
-MISO
-19
-GND
-GND
-RST
-22
-3.3 v
-3.3 v
+| RFID |ESP32   |
+| SDA  | GPIO 5 |
+| SCK  | GPIO 18|
+| MOSI | GPIO 23|
+| MISO | GPIO 19|
+| GND  | GND    |
+| RST  | GPIO 22|
+| 3.3v | 3.3v   |
 
 
 
-LED (GREEN)
-PIN
-3.3 v
-2
-GND
-GND
+
+| LED (GREEN) | PIN |
+| 3.3 v       | 2   |
+| GND         | GND |
 
 
-LED (RED)
-PIN
-3.3 v
-3.3 v
-GND
-GND
+| LED (RED)   | PIN |
+| 3.3 v       | 3.3v|
+| GND         | GND |
 
 
-BUZZER
-PIN
-3.3 v
-15
-GND
-GND
+| BUZZER      | PIN |
+| 3.3 v       | 15  |
+| GND         | GND |
+
+
+
 
 
